@@ -63,13 +63,13 @@
 
 #6)
 
-number = int(input("Write number \n"))
+# number = int(input("Write number \n"))
 
-before = 0
-after = 1
-print(0, 1, end=' ')
-while True:
-    before, after = after, before + after
-    if after > number:
-        break
-    print(after, end =" ")
+# before = 0
+# after = 1
+# print(0, 1, end=' ')
+# while True:
+#     before, after = after, before + after
+#     if after > number:
+#         break
+#     print(after, end =" ")
